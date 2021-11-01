@@ -1,6 +1,6 @@
-# atht_hire_test
+# atht
 
-ATH Hire Test.
+ATHT.
 
 ## Getting Started
 
